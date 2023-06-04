@@ -19,8 +19,6 @@ entry.grid()
 button.grid()
 
 root.mainloop()
-<<<<<<< HEAD
 
 #say main is updated
-=======
->>>>>>> 300d185 (file of little guy is updated)
+
