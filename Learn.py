@@ -20,5 +20,3 @@ button.grid()
 
 root.mainloop()
 
-#say main is updated
-
