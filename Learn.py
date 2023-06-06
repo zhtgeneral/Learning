@@ -20,4 +20,3 @@ entry.grid()
 button.grid()
 
 root.mainloop()
-
